@@ -17,7 +17,7 @@ The model evaluates input images and categorizes Teff plant health into one of f
 ## 🚀 Quick Setup Guide
 
 ### 1. Installation via GitHub
-Teammates can install this package globally directly from this repository by running:
+You can install this package globally directly from this repository by running:
 ```bash
 pip install git+https://github.com
 ```
